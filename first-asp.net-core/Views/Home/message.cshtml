@@ -1,0 +1,88 @@
+﻿@model List<first_asp.net_core.Models.message>
+@{
+	var count = 1;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Login V4</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
+<!--=========================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--=========================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/iconic/css/material-design-iconic-font.min.css">
+<!--=========================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/animate/animate.css">
+<!--=========================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="/css-hamburgers/hamburgers.min.css">
+<!--=========================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/animsition/css/animsition.min.css">
+<!--=========================================================================================-->
+	<link rel="stylesheet" type="text/css" href="/select2/select2.min.css">
+<!--=========================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+<!--===============================================================================================-->
+</head>
+<body dir="rtl" style="background-image: url('images/bg-01.jpg');background-repeat: no-repeat;background-size: cover;display: flex;align-items: center;justify-content: center;">
+	<div class="container" >
+		<div class="card">
+            <div class="card-header">
+                لیست پیام ها
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered text-center">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>عنوان</th>
+                            <th>نام و نام خانوادگی</th>
+                            <th>پیام</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@count</td>
+								<td>@item.Name</td>
+								<td>@item.Family</td>
+								<td>@item.Text</td>
+							</tr>
+							count += 1;
+						}
+                    </tbody>
+                </table>
+            </div>
+        </div> 
+	</div>
+	
+
+	<div id="dropDownSelect1"></div>
+	
+<!--=========================================================================================-->
+	<script src="/jquery/jquery-3.2.1.min.js"></script>
+<!--=========================================================================================-->
+	<script src="/animsition/js/animsition.min.js"></script>
+<!--=========================================================================================-->
+	<script src="/bootstrap/js/popper.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+<!--=========================================================================================-->
+	<script src="/select2/select2.min.js"></script>
+<!--=========================================================================================-->
+	<script src="/daterangepicker/moment.min.js"></script>
+	<script src="/daterangepicker/daterangepicker.js"></script>
+<!--=========================================================================================-->
+	<script src="/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>

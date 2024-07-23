@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\views\\home\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\views\\home\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|c:\\users\\mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02EA7860-3F67-4A61-A9BB-FBB6BD71B137}|first-asp.net-core\\first-asp.net-core.csproj|solutionrelative:first-asp.net-core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\database\\database.cs",
+              "RelativeDocumentMoniker": "first-asp.net-core\\database\\database.cs",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\database\\database.cs",
+              "RelativeToolTip": "first-asp.net-core\\database\\database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:08:46.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "message.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Home\\message.cshtml",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Views\\Home\\message.cshtml",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Home\\message.cshtml",
+              "RelativeToolTip": "first-asp.net-core\\Views\\Home\\message.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T11:26:06.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "message.cs",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Models\\message.cs",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Models\\message.cs",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Models\\message.cs",
+              "RelativeToolTip": "first-asp.net-core\\Models\\message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:25:09.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "first-asp.net-core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T11:13:02.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "first-asp.net-core\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T11:05:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "first-asp.net-core\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:57:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "first-asp.net-core\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T10:56:09.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "first-asp.net-core\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mehrshad\\source\\repos\\first-asp.net-core\\first-asp.net-core\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "first-asp.net-core\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T10:55:34.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

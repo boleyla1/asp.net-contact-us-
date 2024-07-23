@@ -1,0 +1,78 @@
+﻿@model first_asp.net_core.Models.message
+<div class="wrap-contact100">
+	<form class="contact100-form validate-form" asp-controller="" asp-action="sendmessage" method="post">
+		<span class="contact100-form-title">
+			ارسال پیام
+		</span>
+		<label class="label-input100" for="first-name">اطلاعات خود را در این قسمت وارد کنید *</label>
+		<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="وارد کردن نام الزامی است">
+			<input asp-for="Name" id="first-name" class="input100" type="text"  placeholder="نام">
+			<span class="focus-input100"></span>
+		</div>
+		<div class="wrap-input100 rs2-wrap-input100 validate-input" data-validate="وارد کردن نام خانوادگی الزامی است">
+			<input asp-for="Family" class="input100" type="text"  placeholder="نام خانوادگی">
+			<span class="focus-input100"></span>
+		</div>
+		<label class="label-input100" for="email">  ایمیل خود را در این قسمت وارد کنید *</label>
+		<div class="wrap-input100 validate-input" data-validate="لطفا ایمیل معتبر وارد کنید ">
+			<input asp-for="Email" id="email" class="input100" type="text"  placeholder="eg.example@email.com">
+			<span class="focus-input100"></span>
+		</div>
+		<label class="label-input100" for="phone">  شماره تماس خود را در این قسمت وارد کنید</label>
+		<div class="wrap-input100">
+			<input asp-for="Phone" id="phone" class="input100" type="text"  placeholder="09171236574">
+			<span class="focus-input100"></span>
+		</div>
+		<label class="label-input100" for="message">متن پیام *</label>
+		<div class="wrap-input100 validate-input" data-validate="وارد کردن پیام الزامی است">
+			<textarea asp-for="Text" id="message" class="input100"  placeholder="پیام خود را در این قسمت وارد کنید"></textarea>
+			<span class="focus-input100"></span>
+		</div>
+		<div class="container-contact100-form-btn">
+			<button class="contact100-form-btn" type="submit">
+				ارسال پیام
+			</button>
+		</div>
+	</form>
+	<div class="contact100-more flex-col-c-m" style="background-image: url('assets/images/bg-01.jpg');">
+		<div class="flex-w size1 p-b-47">
+			<div class="txt1 p-r-25">
+				<span class="lnr lnr-map-marker"></span>
+			</div>
+			<div class="flex-col size2">
+				<span class="txt1 p-b-20 p-r-25">
+					آدرس
+				</span>
+				<span class="txt2 p-r-25">
+					شیراز، خیابان زند، کوچه 12 ، پلاک 139، طبقه دوم
+				</span>
+			</div>
+		</div>
+		<div class="dis-flex size1 p-b-47">
+			<div class="txt1 p-r-25">
+				<span class="lnr lnr-phone-handset"></span>
+			</div>
+			<div class="flex-col size2">
+				<span class="txt1 p-b-20  p-r-25">
+					شماره تماس
+				</span>
+				<span class="txt3 p-r-25">
+					07132324546
+				</span>
+			</div>
+		</div>
+		<div class="dis-flex size1 p-b-47">
+			<div class="txt1 p-r-25">
+				<span class="lnr lnr-envelope"></span>
+			</div>
+			<div class="flex-col size2">
+				<span class="txt1 p-b-20 p-r-25">
+					ایمیل
+				</span>
+				<span class="txt3 p-r-25">
+					contact@example.com
+				</span>
+			</div>
+		</div>
+	</div>
+</div>
